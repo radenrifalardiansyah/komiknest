@@ -1,0 +1,83 @@
+{
+  "slug": "robot-sawah",
+  "title": "Robot Sawah",
+  "titleEn": "Paddy Robot",
+  "author": "Tim KomikNest",
+  "artist": "Tim KomikNest",
+  "cover": "/samples/robot-sawah/cover.svg",
+  "synopsis": {
+    "id": "Robot petani buatan kakek Dimas ingin sekali jadi orang-orangan sawah yang ditakuti burung.",
+    "en": "Grandpa Dimas's farming robot dreams of becoming a scarecrow the birds actually fear."
+  },
+  "genres": [
+    "sci-fi",
+    "comedy",
+    "kids"
+  ],
+  "status": "ongoing",
+  "format": "webtoon",
+  "featured": false,
+  "license": "CC BY 4.0",
+  "sourceName": "KomikNest Original",
+  "sourceUrl": null,
+  "chapters": [
+    {
+      "number": 1,
+      "lang": "id",
+      "title": "Musim Tanam",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "imageBase": "/samples/robot-sawah/c1/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg"
+      ]
+    },
+    {
+      "number": 1,
+      "lang": "en",
+      "title": "Planting Season",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "imageBase": "/samples/robot-sawah/c1/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg"
+      ]
+    },
+    {
+      "number": 2,
+      "lang": "id",
+      "title": "Burung Pipit",
+      "publishedAt": "2026-09-27T00:00:00.000Z",
+      "imageBase": "/samples/robot-sawah/c2/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg",
+        "06.svg"
+      ]
+    },
+    {
+      "number": 2,
+      "lang": "en",
+      "title": "The Sparrows",
+      "publishedAt": "2026-09-27T00:00:00.000Z",
+      "imageBase": "/samples/robot-sawah/c2/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg",
+        "06.svg"
+      ]
+    }
+  ]
+}

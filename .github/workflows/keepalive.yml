@@ -1,0 +1,20 @@
+name: Keep scheduled workflows alive
+
+# GitHub disables cron workflows in public repos after 60 days without
+# activity. This re-enables the ingest workflow monthly (no commits needed).
+on:
+  schedule:
+    - cron: "0 3 1 * *"
+  workflow_dispatch:
+
+permissions:
+  actions: write
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - run: gh workflow enable ingest.yml --repo "$GITHUB_REPOSITORY"
+        env:
+          GH_TOKEN: ${{ github.token }}

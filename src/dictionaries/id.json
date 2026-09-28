@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "title": "KomikNest — Baca Komik Gratis & Legal",
+    "description": "Baca komik original dan berlisensi terbuka secara gratis dalam Bahasa Indonesia dan Inggris. Cepat, modern, dan ramah seluler."
+  },
+  "nav": {
+    "home": "Beranda",
+    "browse": "Jelajah",
+    "library": "Pustaka",
+    "about": "Tentang",
+    "search": "Cari komik…",
+    "theme": "Ganti tema",
+    "language": "Bahasa"
+  },
+  "hero": {
+    "badge": "100% gratis & legal",
+    "title": "Tempat nyaman untuk",
+    "titleAccent": "membaca komik",
+    "subtitle": "Komik original, public domain, dan berlisensi terbuka — dalam Bahasa Indonesia & Inggris. Tanpa daftar, tanpa ribet.",
+    "cta": "Mulai membaca",
+    "ctaSecondary": "Jelajahi genre"
+  },
+  "home": {
+    "featured": "Pilihan Editor",
+    "latest": "Update Terbaru",
+    "continue": "Lanjutkan Membaca",
+    "genres": "Genre",
+    "seeAll": "Lihat semua"
+  },
+  "comic": {
+    "chapter": "Bab",
+    "chapters": "Daftar Bab",
+    "read": "Mulai baca",
+    "continue": "Lanjut bab",
+    "bookmark": "Simpan",
+    "bookmarked": "Tersimpan",
+    "author": "Penulis",
+    "artist": "Ilustrator",
+    "status": "Status",
+    "format": "Format",
+    "license": "Lisensi",
+    "source": "Sumber",
+    "synopsis": "Sinopsis",
+    "languages": "Bahasa",
+    "sortNewest": "Terbaru",
+    "sortOldest": "Terlama",
+    "filterChapters": "Cari nomor bab…",
+    "noChapters": "Belum ada bab dalam bahasa ini.",
+    "otherLanguage": "Tersedia dalam bahasa lain",
+    "latestChapter": "Bab terbaru",
+    "status_ongoing": "Berlanjut",
+    "status_completed": "Tamat",
+    "status_hiatus": "Hiatus",
+    "format_webtoon": "Webtoon",
+    "format_page": "Halaman"
+  },
+  "reader": {
+    "prev": "Sebelumnya",
+    "next": "Berikutnya",
+    "chapters": "Daftar bab",
+    "settings": "Pengaturan",
+    "modeVertical": "Gulir vertikal",
+    "modePaged": "Per halaman",
+    "width": "Lebar",
+    "page": "Halaman",
+    "of": "dari",
+    "end": "Kamu sudah sampai di akhir bab.",
+    "backToComic": "Kembali ke komik",
+    "fallbackLang": "Bab ini belum tersedia dalam bahasamu, ditampilkan versi lain."
+  },
+  "library": {
+    "title": "Pustaka Saya",
+    "bookmarks": "Tersimpan",
+    "history": "Riwayat",
+    "emptyBookmarks": "Belum ada komik tersimpan. Tekan tombol Simpan di halaman komik.",
+    "emptyHistory": "Belum ada riwayat baca.",
+    "clear": "Hapus riwayat",
+    "export": "Ekspor",
+    "import": "Impor",
+    "localNote": "Data pustaka disimpan di perangkat ini saja. Gunakan Ekspor/Impor untuk memindahkannya."
+  },
+  "browse": {
+    "title": "Jelajah Komik",
+    "all": "Semua",
+    "sort": "Urutkan",
+    "sortLatest": "Terbaru",
+    "sortTitle": "Judul A–Z",
+    "results": "komik",
+    "empty": "Tidak ada komik yang cocok."
+  },
+  "search": {
+    "placeholder": "Ketik judul atau genre…",
+    "empty": "Tidak ditemukan.",
+    "hint": "Tekan Esc untuk menutup"
+  },
+  "genres": {
+    "action": "Aksi",
+    "adventure": "Petualangan",
+    "comedy": "Komedi",
+    "drama": "Drama",
+    "fantasy": "Fantasi",
+    "sci-fi": "Fiksi Ilmiah",
+    "slice-of-life": "Keseharian",
+    "mystery": "Misteri",
+    "romance": "Romansa",
+    "horror": "Horor",
+    "history": "Sejarah",
+    "kids": "Anak-anak"
+  },
+  "about": {
+    "title": "Tentang KomikNest",
+    "body": "KomikNest adalah platform baca komik gratis yang hanya menayangkan karya original, karya public domain, dan karya dengan lisensi yang mengizinkan distribusi ulang. Setiap judul menampilkan informasi lisensi dan sumbernya.",
+    "creatorsTitle": "Untuk kreator",
+    "creatorsBody": "Punya komik dan ingin menerbitkannya di KomikNest? Hubungi kami — karya tetap milikmu, dan kami mencantumkan kredit serta tautan ke kanalmu.",
+    "reportTitle": "Laporan hak cipta",
+    "reportBody": "Jika kamu yakin ada konten yang melanggar hak cipta, kirim laporan beserta tautannya. Kami akan meninjau dan menurunkannya secepatnya."
+  },
+  "footer": {
+    "tagline": "Baca komik gratis, legal, dan nyaman.",
+    "rights": "Semua karya milik kreatornya masing-masing.",
+    "about": "Tentang & Lisensi",
+    "report": "Laporkan konten"
+  },
+  "common": {
+    "notFound": "Halaman tidak ditemukan",
+    "notFoundBody": "Mungkin komiknya sudah pindah rak.",
+    "backHome": "Kembali ke beranda",
+    "loading": "Memuat…",
+    "ad": "Iklan"
+  }
+}

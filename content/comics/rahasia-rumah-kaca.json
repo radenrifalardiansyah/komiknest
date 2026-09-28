@@ -1,0 +1,78 @@
+{
+  "slug": "rahasia-rumah-kaca",
+  "title": "Rahasia Rumah Kaca",
+  "titleEn": "Secret of the Glasshouse",
+  "author": "Tim KomikNest",
+  "artist": "Tim KomikNest",
+  "cover": "/samples/rahasia-rumah-kaca/cover.svg",
+  "synopsis": {
+    "id": "Sebuah rumah kaca tua menyimpan tanaman yang hanya mekar saat seseorang berbohong.",
+    "en": "An old glasshouse hides a plant that only blooms when someone tells a lie."
+  },
+  "genres": [
+    "mystery",
+    "drama"
+  ],
+  "status": "completed",
+  "format": "page",
+  "featured": false,
+  "license": "CC BY 4.0",
+  "sourceName": "KomikNest Original",
+  "sourceUrl": null,
+  "chapters": [
+    {
+      "number": 1,
+      "lang": "id",
+      "title": "Bunga Pertama",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "imageBase": "/samples/rahasia-rumah-kaca/c1/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg"
+      ]
+    },
+    {
+      "number": 1,
+      "lang": "en",
+      "title": "The First Bloom",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "imageBase": "/samples/rahasia-rumah-kaca/c1/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg"
+      ]
+    },
+    {
+      "number": 2,
+      "lang": "id",
+      "title": "Kebenaran",
+      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "imageBase": "/samples/rahasia-rumah-kaca/c2/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg"
+      ]
+    },
+    {
+      "number": 2,
+      "lang": "en",
+      "title": "The Truth",
+      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "imageBase": "/samples/rahasia-rumah-kaca/c2/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg"
+      ]
+    }
+  ]
+}
