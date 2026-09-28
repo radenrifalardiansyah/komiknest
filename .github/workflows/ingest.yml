@@ -1,0 +1,35 @@
+name: Ingest content
+
+# Syncs content/comics/*.json (and any other licensed source adapters) to
+# Supabase, then revalidates only the comics that changed.
+on:
+  push:
+    branches: [main]
+    paths: ["content/**", "scripts/ingest/**", "scripts/content-schema.ts"]
+  schedule:
+    - cron: "17 */6 * * *" # every 6h; also keeps the free Supabase project awake
+  workflow_dispatch:
+
+concurrency:
+  group: ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    # Skip silently until Supabase secrets are configured.
+    if: ${{ vars.INGEST_ENABLED == 'true' }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run ingest
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          REVALIDATE_SECRET: ${{ secrets.REVALIDATE_SECRET }}

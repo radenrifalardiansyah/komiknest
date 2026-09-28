@@ -1,0 +1,54 @@
+{
+  "slug": "si-kucing-pos",
+  "title": "Si Kucing Pos",
+  "titleEn": "The Postal Cat",
+  "author": "Tim KomikNest",
+  "artist": "Tim KomikNest",
+  "cover": "/samples/si-kucing-pos/cover.svg",
+  "synopsis": {
+    "id": "Kucing oranye bernama Surat mengantar paket ke seluruh kota — asal ada ikan di ujung perjalanan.",
+    "en": "An orange cat named Letter delivers parcels across town — as long as there's fish at the end."
+  },
+  "genres": [
+    "kids",
+    "comedy"
+  ],
+  "status": "completed",
+  "format": "page",
+  "featured": false,
+  "license": "CC BY 4.0",
+  "sourceName": "KomikNest Original",
+  "sourceUrl": null,
+  "chapters": [
+    {
+      "number": 1,
+      "lang": "id",
+      "title": "Paket Misterius",
+      "publishedAt": "2026-09-16T00:00:00.000Z",
+      "imageBase": "/samples/si-kucing-pos/c1/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg",
+        "06.svg"
+      ]
+    },
+    {
+      "number": 1,
+      "lang": "en",
+      "title": "Mystery Parcel",
+      "publishedAt": "2026-09-16T00:00:00.000Z",
+      "imageBase": "/samples/si-kucing-pos/c1/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg",
+        "06.svg"
+      ]
+    }
+  ]
+}

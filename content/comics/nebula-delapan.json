@@ -1,0 +1,108 @@
+{
+  "slug": "nebula-delapan",
+  "title": "Nebula Delapan",
+  "titleEn": "Nebula Eight",
+  "author": "Tim KomikNest",
+  "artist": "Tim KomikNest",
+  "cover": "/samples/nebula-delapan/cover.svg",
+  "synopsis": {
+    "id": "Delapan kadet tersesat di tepi galaksi dan harus belajar bekerja sama untuk pulang.",
+    "en": "Eight cadets stranded at the edge of the galaxy must learn to work together to get home."
+  },
+  "genres": [
+    "sci-fi",
+    "action"
+  ],
+  "status": "ongoing",
+  "format": "page",
+  "featured": true,
+  "license": "CC BY 4.0",
+  "sourceName": "KomikNest Original",
+  "sourceUrl": null,
+  "chapters": [
+    {
+      "number": 1,
+      "lang": "id",
+      "title": "Sinyal Pertama",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "imageBase": "/samples/nebula-delapan/c1/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg",
+        "06.svg"
+      ]
+    },
+    {
+      "number": 1,
+      "lang": "en",
+      "title": "First Signal",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "imageBase": "/samples/nebula-delapan/c1/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg",
+        "06.svg"
+      ]
+    },
+    {
+      "number": 2,
+      "lang": "id",
+      "title": "Gravitasi Nol",
+      "publishedAt": "2026-09-12T00:00:00.000Z",
+      "imageBase": "/samples/nebula-delapan/c2/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg"
+      ]
+    },
+    {
+      "number": 2,
+      "lang": "en",
+      "title": "Zero Gravity",
+      "publishedAt": "2026-09-12T00:00:00.000Z",
+      "imageBase": "/samples/nebula-delapan/c2/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg"
+      ]
+    },
+    {
+      "number": 3,
+      "lang": "id",
+      "title": "Bintang Kembar",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "imageBase": "/samples/nebula-delapan/c3/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg"
+      ]
+    },
+    {
+      "number": 3,
+      "lang": "en",
+      "title": "Twin Stars",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "imageBase": "/samples/nebula-delapan/c3/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg"
+      ]
+    }
+  ]
+}

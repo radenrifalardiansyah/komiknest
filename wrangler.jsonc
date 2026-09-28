@@ -1,0 +1,40 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "komiknest",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-09-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": {
+    // Static files (JS/CSS/fonts/sample art) are served free and unmetered.
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "services": [
+    { "binding": "WORKER_SELF_REFERENCE", "service": "komiknest" }
+  ],
+  "r2_buckets": [
+    // npx wrangler r2 bucket create komiknest-cache
+    { "binding": "NEXT_INC_CACHE_R2_BUCKET", "bucket_name": "komiknest-cache" }
+  ],
+  "d1_databases": [
+    // npx wrangler d1 create komiknest-tags  → paste the database_id below
+    {
+      "binding": "NEXT_TAG_CACHE_D1",
+      "database_name": "komiknest-tags",
+      "database_id": "REPLACE_WITH_D1_DATABASE_ID"
+    }
+  ],
+  "durable_objects": {
+    "bindings": [
+      { "name": "NEXT_CACHE_DO_QUEUE", "class_name": "DOQueueHandler" }
+    ]
+  },
+  "migrations": [
+    // SQLite-backed Durable Objects are available on the free plan.
+    { "tag": "v1", "new_sqlite_classes": ["DOQueueHandler"] }
+  ],
+  "vars": {
+    "NEXT_PUBLIC_SITE_URL": "https://komiknest.workers.dev"
+  },
+  "observability": { "enabled": true }
+}

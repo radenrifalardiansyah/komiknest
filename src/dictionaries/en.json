@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "title": "KomikNest — Read Free & Legal Comics",
+    "description": "Read original and openly licensed comics for free in English and Indonesian. Fast, modern and mobile-friendly."
+  },
+  "nav": {
+    "home": "Home",
+    "browse": "Browse",
+    "library": "Library",
+    "about": "About",
+    "search": "Search comics…",
+    "theme": "Toggle theme",
+    "language": "Language"
+  },
+  "hero": {
+    "badge": "100% free & legal",
+    "title": "A cozy place to",
+    "titleAccent": "read comics",
+    "subtitle": "Original, public-domain and openly licensed comics — in English & Indonesian. No sign-up, no hassle.",
+    "cta": "Start reading",
+    "ctaSecondary": "Explore genres"
+  },
+  "home": {
+    "featured": "Editor's Picks",
+    "latest": "Latest Updates",
+    "continue": "Continue Reading",
+    "genres": "Genres",
+    "seeAll": "See all"
+  },
+  "comic": {
+    "chapter": "Chapter",
+    "chapters": "Chapters",
+    "read": "Start reading",
+    "continue": "Continue ch.",
+    "bookmark": "Save",
+    "bookmarked": "Saved",
+    "author": "Author",
+    "artist": "Artist",
+    "status": "Status",
+    "format": "Format",
+    "license": "License",
+    "source": "Source",
+    "synopsis": "Synopsis",
+    "languages": "Languages",
+    "sortNewest": "Newest",
+    "sortOldest": "Oldest",
+    "filterChapters": "Find chapter number…",
+    "noChapters": "No chapters in this language yet.",
+    "otherLanguage": "Available in another language",
+    "latestChapter": "Latest chapter",
+    "status_ongoing": "Ongoing",
+    "status_completed": "Completed",
+    "status_hiatus": "Hiatus",
+    "format_webtoon": "Webtoon",
+    "format_page": "Paged"
+  },
+  "reader": {
+    "prev": "Previous",
+    "next": "Next",
+    "chapters": "Chapters",
+    "settings": "Settings",
+    "modeVertical": "Vertical scroll",
+    "modePaged": "Single page",
+    "width": "Width",
+    "page": "Page",
+    "of": "of",
+    "end": "You've reached the end of this chapter.",
+    "backToComic": "Back to comic",
+    "fallbackLang": "This chapter isn't available in your language yet; showing another version."
+  },
+  "library": {
+    "title": "My Library",
+    "bookmarks": "Saved",
+    "history": "History",
+    "emptyBookmarks": "No saved comics yet. Tap Save on a comic page.",
+    "emptyHistory": "No reading history yet.",
+    "clear": "Clear history",
+    "export": "Export",
+    "import": "Import",
+    "localNote": "Your library is stored on this device only. Use Export/Import to move it."
+  },
+  "browse": {
+    "title": "Browse Comics",
+    "all": "All",
+    "sort": "Sort",
+    "sortLatest": "Latest",
+    "sortTitle": "Title A–Z",
+    "results": "comics",
+    "empty": "No comics match."
+  },
+  "search": {
+    "placeholder": "Type a title or genre…",
+    "empty": "Nothing found.",
+    "hint": "Press Esc to close"
+  },
+  "genres": {
+    "action": "Action",
+    "adventure": "Adventure",
+    "comedy": "Comedy",
+    "drama": "Drama",
+    "fantasy": "Fantasy",
+    "sci-fi": "Sci-Fi",
+    "slice-of-life": "Slice of Life",
+    "mystery": "Mystery",
+    "romance": "Romance",
+    "horror": "Horror",
+    "history": "History",
+    "kids": "Kids"
+  },
+  "about": {
+    "title": "About KomikNest",
+    "body": "KomikNest is a free comic reading platform that only publishes original works, public-domain works, and works whose license allows redistribution. Every title shows its license and source.",
+    "creatorsTitle": "For creators",
+    "creatorsBody": "Have a comic you'd like to publish on KomikNest? Get in touch — you keep your rights, and we credit and link to your channels.",
+    "reportTitle": "Copyright reports",
+    "reportBody": "If you believe any content infringes copyright, send us a report with the link. We'll review and take it down promptly."
+  },
+  "footer": {
+    "tagline": "Free, legal, comfortable comic reading.",
+    "rights": "All works belong to their respective creators.",
+    "about": "About & Licensing",
+    "report": "Report content"
+  },
+  "common": {
+    "notFound": "Page not found",
+    "notFoundBody": "Maybe the comic moved to another shelf.",
+    "backHome": "Back to home",
+    "loading": "Loading…",
+    "ad": "Advertisement"
+  }
+}

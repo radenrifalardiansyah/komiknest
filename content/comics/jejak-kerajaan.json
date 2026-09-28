@@ -1,0 +1,78 @@
+{
+  "slug": "jejak-kerajaan",
+  "title": "Jejak Kerajaan",
+  "titleEn": "Trail of the Kingdom",
+  "author": "Tim KomikNest",
+  "artist": "Tim KomikNest",
+  "cover": "/samples/jejak-kerajaan/cover.svg",
+  "synopsis": {
+    "id": "Dua pelajar menelusuri prasasti di kampung halaman dan menemukan kisah kerajaan yang terlupakan.",
+    "en": "Two students trace an inscription in their hometown and uncover a forgotten kingdom's tale."
+  },
+  "genres": [
+    "history",
+    "adventure"
+  ],
+  "status": "ongoing",
+  "format": "page",
+  "featured": false,
+  "license": "CC BY 4.0",
+  "sourceName": "KomikNest Original",
+  "sourceUrl": null,
+  "chapters": [
+    {
+      "number": 1,
+      "lang": "id",
+      "title": "Prasasti",
+      "publishedAt": "2026-09-19T00:00:00.000Z",
+      "imageBase": "/samples/jejak-kerajaan/c1/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg"
+      ]
+    },
+    {
+      "number": 1,
+      "lang": "en",
+      "title": "The Inscription",
+      "publishedAt": "2026-09-19T00:00:00.000Z",
+      "imageBase": "/samples/jejak-kerajaan/c1/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg"
+      ]
+    },
+    {
+      "number": 2,
+      "lang": "id",
+      "title": "Sungai Emas",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "imageBase": "/samples/jejak-kerajaan/c2/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg"
+      ]
+    },
+    {
+      "number": 2,
+      "lang": "en",
+      "title": "Golden River",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "imageBase": "/samples/jejak-kerajaan/c2/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg"
+      ]
+    }
+  ]
+}

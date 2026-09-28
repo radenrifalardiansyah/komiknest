@@ -1,0 +1,82 @@
+{
+  "slug": "arus-samudra",
+  "title": "Arus Samudra",
+  "titleEn": "Ocean Current",
+  "author": "Tim KomikNest",
+  "artist": "Tim KomikNest",
+  "cover": "/samples/arus-samudra/cover.svg",
+  "synopsis": {
+    "id": "Nelayan muda Laut menemukan peta arus kuno yang menuntunnya ke pulau yang tak tercatat.",
+    "en": "Young fisher Laut finds an ancient current map leading to an uncharted island."
+  },
+  "genres": [
+    "adventure",
+    "drama"
+  ],
+  "status": "ongoing",
+  "format": "webtoon",
+  "featured": false,
+  "license": "CC BY 4.0",
+  "sourceName": "KomikNest Original",
+  "sourceUrl": null,
+  "chapters": [
+    {
+      "number": 1,
+      "lang": "id",
+      "title": "Peta Basah",
+      "publishedAt": "2026-09-13T00:00:00.000Z",
+      "imageBase": "/samples/arus-samudra/c1/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg"
+      ]
+    },
+    {
+      "number": 1,
+      "lang": "en",
+      "title": "The Wet Map",
+      "publishedAt": "2026-09-13T00:00:00.000Z",
+      "imageBase": "/samples/arus-samudra/c1/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg"
+      ]
+    },
+    {
+      "number": 2,
+      "lang": "id",
+      "title": "Badai Kecil",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "imageBase": "/samples/arus-samudra/c2/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg",
+        "06.svg"
+      ]
+    },
+    {
+      "number": 2,
+      "lang": "en",
+      "title": "A Small Storm",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "imageBase": "/samples/arus-samudra/c2/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg",
+        "06.svg"
+      ]
+    }
+  ]
+}

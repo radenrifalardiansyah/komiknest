@@ -1,0 +1,108 @@
+{
+  "slug": "penjaga-langit-biru",
+  "title": "Penjaga Langit Biru",
+  "titleEn": "Keeper of the Blue Sky",
+  "author": "Tim KomikNest",
+  "artist": "Tim KomikNest",
+  "cover": "/samples/penjaga-langit-biru/cover.svg",
+  "synopsis": {
+    "id": "Arka, pemuda penjaga menara angin, harus menyatukan kembali pulau-pulau langit yang mulai runtuh satu per satu.",
+    "en": "Arka, a young keeper of the wind tower, must reunite the sky islands before they fall one by one."
+  },
+  "genres": [
+    "fantasy",
+    "adventure"
+  ],
+  "status": "ongoing",
+  "format": "webtoon",
+  "featured": true,
+  "license": "CC BY 4.0",
+  "sourceName": "KomikNest Original",
+  "sourceUrl": null,
+  "chapters": [
+    {
+      "number": 1,
+      "lang": "id",
+      "title": "Menara Angin",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "imageBase": "/samples/penjaga-langit-biru/c1/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg"
+      ]
+    },
+    {
+      "number": 1,
+      "lang": "en",
+      "title": "The Wind Tower",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "imageBase": "/samples/penjaga-langit-biru/c1/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg"
+      ]
+    },
+    {
+      "number": 2,
+      "lang": "id",
+      "title": "Pulau yang Jatuh",
+      "publishedAt": "2026-09-06T00:00:00.000Z",
+      "imageBase": "/samples/penjaga-langit-biru/c2/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg"
+      ]
+    },
+    {
+      "number": 2,
+      "lang": "en",
+      "title": "The Falling Island",
+      "publishedAt": "2026-09-06T00:00:00.000Z",
+      "imageBase": "/samples/penjaga-langit-biru/c2/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg"
+      ]
+    },
+    {
+      "number": 3,
+      "lang": "id",
+      "title": "Sayap Pinjaman",
+      "publishedAt": "2026-09-11T00:00:00.000Z",
+      "imageBase": "/samples/penjaga-langit-biru/c3/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg",
+        "06.svg"
+      ]
+    },
+    {
+      "number": 3,
+      "lang": "en",
+      "title": "Borrowed Wings",
+      "publishedAt": "2026-09-11T00:00:00.000Z",
+      "imageBase": "/samples/penjaga-langit-biru/c3/",
+      "images": [
+        "01.svg",
+        "02.svg",
+        "03.svg",
+        "04.svg",
+        "05.svg",
+        "06.svg"
+      ]
+    }
+  ]
+}
